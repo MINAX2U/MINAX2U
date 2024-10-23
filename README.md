@@ -1,4 +1,4 @@
-![👋 Hi, my name is MINAX](https://i.pinimg.com/originals/09/1f/83/091f837d3aae5870b5fdb72ad31482ce.gif)
+![👋 Hi, my name is MINAX](https://i.pinimg.com/originals/8a/0c/53/8a0c53bba153549e1e33070619afb75a.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MINAX2U&label=Profile%20views&color=0e75b6&style=flat)
 
