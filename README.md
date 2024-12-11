@@ -44,4 +44,4 @@
 
 <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 
-<a href="https://app.daily.dev/minax"><img src="https://api.daily.dev/devcards/v2/QyCnLQnZIOeK6mz42opEs.png?r=lxt&type=default" width="356" alt="MINAX's Dev Card"/></a>
+<a href="https://app.daily.dev/minax"><img src="./devcard.png" width="356" alt="MINAX's Dev Card"/></a>
