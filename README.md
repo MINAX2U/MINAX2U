@@ -15,9 +15,9 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/minax0123" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/MINAX2U" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/minax_owo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/VOID31262384629" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/Traditional-Pick6961" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">A student wanna pass APCS to get to university.</h3>**
+ **<h3 align="left">A highschool student</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Ummmmm....</h3>**
 
 - 💼 I'm currently working on: **💻 Trying new stuffs**
 - 🌱 I'm currently learning: **📚Fuck Mathmatics**
