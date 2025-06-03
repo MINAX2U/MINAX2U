@@ -19,9 +19,9 @@
 
 **<h3 align="left">Ummmmm....</h3>**
 
-- 💼 I'm currently working on: **💻 Trying new stuffs**
-- 🌱 I'm currently learning: **📚Fuck Mathmatics**
-- 💬 Ask me about: **💡 C++:<**
+- 💼 I'm currently working on: **💻 InnoServe**
+- 🌱 I'm currently learning: **📚 JavaScript**
+- 💬 Ask me about: **💡 WHY**
 - ⚡ Fun fact: **🎢 owo**
 
  **<h3 align="left">Skills</h3>**
